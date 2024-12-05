@@ -1,1 +1,1 @@
-# rebuttal
+all_log.pdf : The training log of PPO-Lagrangian and RePO, and the dashed line is the constraint cost threshold. The training was conducted independently for five rounds with different seeds, and the results show the mean and standard deviation from the five experiments 
